@@ -5,37 +5,35 @@
 I'm a student focused on expanding my knowledge in AI, Robotics, and Electrical Engineering. Currently, I am learning a wide range of subjects that enhance my expertise in these fields, including:
 
 Programming Languages:
-
-Python
-C
-C++
+Python,
+C,
+C++.
 Machine Learning:
+Scikit-learn.
 
-Scikit-learn
 Mathematics:
 
-Statistics & Probability
-Complex Variables & Laplace Transformation
-Numerical Methods
-Vectors, Limits, Matrices & Coordinate Geometry
+Statistics & Probability,
+Complex Variables & Laplace Transformation,
+Numerical Methods,
+Vectors, Limits, Matrices & Coordinate Geometry.
+
 Software Skills:
-
-Fusion 360 (3D design software)
+Fusion 360 (3D design software),
 Database Management Systems
+
 Electrical & Electronic Engineering:
+Electrical Engineering and Circuit Analysis,
+Electrical Engineering and Circuit Analysis Lab Work,
+Electronic Engineering Lab Work,
+Digital Logic Design,
+Digital Logic Design Lab Work.
 
-Electrical Engineering and Circuit Analysis
-Electrical Engineering and Circuit Analysis Lab Work
-Electronic Engineering Lab Work
-Digital Logic Design
-Digital Logic Design Lab Work
 Algorithm & Data Structure Skills:
-
-Algorithms Design & Analysis
-My goal is to apply these skills in innovative ways within the field of technology.
+Algorithms Design & Analysis.
 
 Skills: PYTHON /Scikit-learn/ Fusion 360
 
-- 🔭 I’m currently working on this page.
+My goal is to apply these skills in innovative ways within the field of technology.
   
 
