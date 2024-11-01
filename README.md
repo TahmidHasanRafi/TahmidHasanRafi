@@ -17,7 +17,7 @@ Mathematics:
 Statistics & Probability,
 Complex Variables & Laplace Transformation,
 Numerical Methods,
-Vectors, Limits, Matrices & Coordinate Geometry.
+Vectors, Calculus, Matrices & Coordinate Geometry.
 
 Software Skills:
 Fusion 360 (3D design software),
