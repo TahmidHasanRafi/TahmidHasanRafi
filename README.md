@@ -1,10 +1,12 @@
-
+![Logo](https://github.com/TahmidHasanRafi/Tahmid-Hasan-Rafi/blob/main/GitHub%20Benner.png.jpg)
 # Hi, I'm Md Tahmid hasan Rafi
 ### A passionate WEB 3.0 developer from Bangladesh. 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-[![Profile Views](https://www.facebook.com/tahmidhasan.rafi.399)](https://github.com/TahmidHasanRafi)
+
+[![Profile Views](https://komarev.com/ghpvc/?username= TahmidHasanRafi &label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ TahmidHasanRafi)
+
 
 
 ---
